@@ -1,0 +1,1 @@
+In this project I am learning about emacs, what is it, which are the most used commands and how to use emacs for editing text
