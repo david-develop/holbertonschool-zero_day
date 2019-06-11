@@ -1,0 +1,1 @@
+Exploring the basics of using vi text editor and managing files with it
