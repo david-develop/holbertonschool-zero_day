@@ -6,7 +6,7 @@ In this project I learned about *Git and GitHub* and the differences between bot
 
 In this repository are all the projects in day 0 at holberton, about Vagrant, Emacs, Vi and Git
 
-Vagrant - Virtual software develoment, virtual machines
-Emacs - Text Editor and how to use it
-Vi - Text Editor and how to use it
-Git - about source code management
+- Vagrant - Virtual software develoment, virtual machines
+- Emacs - Text Editor and how to use it
+- Vi - Text Editor and how to use it
+- Git - about source code management
