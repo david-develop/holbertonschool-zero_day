@@ -5,7 +5,14 @@
 - In this project objective was to learn about **Git and GitHub** and the differences between both
 - Using **Vagrant and Virtual Machines** for a development enviroment
 
+## TECHNOLOGY:
+
+- Virtual Machine and Vagrant
+- Emacs, Vi
+- Git and GitHub
+
 In this repository are all the projects in day 0 at holberton, about Vagrant, Emacs, Vi and Git
+
 ## PROJECTS:
 
 | Project | Description |
